@@ -74,7 +74,7 @@ o	Choose from the dropdown menu (FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK).
 o	Click "Run Scheduler" to execute the selected algorithm.  
 o	View the head movement visualization and performance metrics below.
 
-3.	**Managing Requests:**
+3.	**Managing Requests:**  
 o	Select a request and click "Delete" to remove it.  
 o	Click "Reset" to clear all requests.
 
