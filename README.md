@@ -3,6 +3,8 @@
 
 A visual, interactive disk scheduling algorithm simulator built with Python and Tkinter.
 
+![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
+
 ## 📋 **Overview**
 
 This application demonstrates various disk scheduling algorithms with an intuitive graphical interface. It provides real-time visualization of disk head movements and detailed performance metrics to help understand the efficiency of different scheduling strategies.
