@@ -46,7 +46,8 @@ o	Efficiency comparison between algorithms
 •	tkinter  
 •	matplotlib
 
-**Installation:**
+**Installation:** 
+
 1.Clone the repository:
     
     git clone https://github.com/your-repo/adaptiveDiskScheduler.git
@@ -64,18 +65,19 @@ o	Efficiency comparison between algorithms
 
 1.	**Adding Requests:**
 
-o	Enter the sequence of disk requests.  
+    o	Enter the sequence of disk requests.  
 o	Specify the initial head position.  
 o	Click "Add Request" to include it in the queue.  
 
 2.	**Selecting a Scheduling Algorithm:**
 
-o	Choose from the dropdown menu (FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK).  
+    o	Choose from the dropdown menu (FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK).  
 o	Click "Run Scheduler" to execute the selected algorithm.  
 o	View the head movement visualization and performance metrics below.
 
-3.	**Managing Requests:**  
-o	Select a request and click "Delete" to remove it.  
+3.	**Managing Requests:**
+
+    o	Select a request and click "Delete" to remove it.  
 o	Click "Reset" to clear all requests.
 
 ## **🧬 Algorithms Explained**
@@ -119,7 +121,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## **📜 License**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## **📞 Contact**
 
 **Anoop Grover** - @anoop-grover
