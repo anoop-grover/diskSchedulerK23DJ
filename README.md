@@ -47,12 +47,13 @@ o	Efficiency comparison between algorithms
 •	Python 3.6+  
 •	tkinter  
 •	matplotlib
+•   ttkbootstrap
 
 **Installation:** 
 
 1.Clone the repository:
     
-    git clone https://github.com/your-repo/adaptiveDiskScheduler.git
+    git clone https://github.com/anoop-grover/diskSchedulerK23DJ.git
     cd adaptiveDiskScheduler
 
 2.Install the required packages:
