@@ -1,0 +1,36 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment (if using one)
+venv/
+env/
+*.env
+
+# Ignore logs & temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Matplotlib cache
+.matplotlib/
+
+# Ignore IDE & Editor config files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore database files (if any)
+*.db
+*.sqlite
+
+# Ignore compiled files (if applicable)
+*.o
+*.out
+*.exe
